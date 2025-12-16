@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Res : MonoBehaviour
 {
-    using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
